@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{72863E4A-C0C3-4FA3-A28E-FBDA582B5ABA}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ResumeTemplate PreferredExecutionTarget="/Applications/Microsoft Edge Dev.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResumeTemplate/Pages/Projects.cshtml.cs">
+    <Files>
+      <File FileName="ResumeTemplate/Pages/Projects.cshtml.cs" Line="23" Column="40" />
+      <File FileName="ResumeTemplate/Pages/Projects.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ResumeTemplate">
+            <Node name="ResumeTemplate" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Projects.cshtml" expanded="True">
+                  <Node name="Projects.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

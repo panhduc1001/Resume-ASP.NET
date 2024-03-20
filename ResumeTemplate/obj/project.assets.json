@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/ResumeTemplate.csproj",
+      "projectUniqueName": "/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/ResumeTemplate.csproj",
       "projectName": "ResumeTemplate",
-      "projectPath": "/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/ResumeTemplate.csproj",
+      "projectPath": "/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/ResumeTemplate.csproj",
       "packagesPath": "/Users/Duc/.nuget/packages/",
-      "outputPath": "/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/obj/",
+      "outputPath": "/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Duc/.nuget/NuGet/NuGet.Config"
@@ -27,7 +27,6 @@
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.313/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

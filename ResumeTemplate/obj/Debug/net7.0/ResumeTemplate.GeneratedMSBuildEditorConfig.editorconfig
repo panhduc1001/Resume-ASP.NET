@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ResumeTemplate
 build_property.RootNamespace = ResumeTemplate
-build_property.ProjectDir = /Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/
+build_property.ProjectDir = /Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate
+build_property.MSBuildProjectDirectory = /Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/AboutMe.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/AboutMe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRNZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Error.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Index.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Privacy.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Projects.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvamVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Shared/_Layout.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Shared/_Links.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Shared/_Links.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MaW5rcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/_ViewImports.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Duc/Desktop/Code/ResumeTemplate/ResumeTemplate/Pages/_ViewStart.cshtml]
+[/Users/Duc/Desktop/Code/Resume-ASP.NET/ResumeTemplate/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
